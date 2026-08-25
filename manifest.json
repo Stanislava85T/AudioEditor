@@ -2,7 +2,7 @@
   "name": "Аудио Редактор",
   "short_name": "Аудио Редактор",
   "description": "Рязане, сливане и ефекти върху аудио файлове — офлайн, без интернет.",
-  "start_url": "./audio-editor.html",
+  "start_url": "audio-editor.html",
   "scope": "./",
   "display": "standalone",
   "orientation": "any",
