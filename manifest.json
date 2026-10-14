@@ -3,7 +3,7 @@
   "short_name": "S&A Editor",
   "description": "Рязане, сливане и ефекти върху аудио файлове — офлайн, без интернет.",
   "start_url": "index.html",
-  
+  "scope": "./",
   "display": "standalone",
   "orientation": "any",
   "background_color": "#15171a",
